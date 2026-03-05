@@ -14,7 +14,7 @@ from typing import Dict, Optional, Tuple
 
 import numpy as np
 import pandas as pd
-from sklearn import datasets
+from scikit_learn import datasets
 
 # =========================
 # Helpers (you may use these)
